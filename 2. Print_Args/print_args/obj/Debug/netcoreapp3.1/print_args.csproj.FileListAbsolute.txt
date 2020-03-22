@@ -1,0 +1,13 @@
+C:\Users\A\Desktop\backend\lab_2\print_args\print_args\bin\Debug\netcoreapp3.1\print_args.exe
+C:\Users\A\Desktop\backend\lab_2\print_args\print_args\bin\Debug\netcoreapp3.1\print_args.deps.json
+C:\Users\A\Desktop\backend\lab_2\print_args\print_args\bin\Debug\netcoreapp3.1\print_args.runtimeconfig.json
+C:\Users\A\Desktop\backend\lab_2\print_args\print_args\bin\Debug\netcoreapp3.1\print_args.runtimeconfig.dev.json
+C:\Users\A\Desktop\backend\lab_2\print_args\print_args\bin\Debug\netcoreapp3.1\print_args.dll
+C:\Users\A\Desktop\backend\lab_2\print_args\print_args\bin\Debug\netcoreapp3.1\print_args.pdb
+C:\Users\A\Desktop\backend\lab_2\print_args\print_args\obj\Debug\netcoreapp3.1\print_args.csprojAssemblyReference.cache
+C:\Users\A\Desktop\backend\lab_2\print_args\print_args\obj\Debug\netcoreapp3.1\print_args.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\backend\lab_2\print_args\print_args\obj\Debug\netcoreapp3.1\print_args.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\backend\lab_2\print_args\print_args\obj\Debug\netcoreapp3.1\print_args.AssemblyInfo.cs
+C:\Users\A\Desktop\backend\lab_2\print_args\print_args\obj\Debug\netcoreapp3.1\print_args.dll
+C:\Users\A\Desktop\backend\lab_2\print_args\print_args\obj\Debug\netcoreapp3.1\print_args.pdb
+C:\Users\A\Desktop\backend\lab_2\print_args\print_args\obj\Debug\netcoreapp3.1\print_args.genruntimeconfig.cache
