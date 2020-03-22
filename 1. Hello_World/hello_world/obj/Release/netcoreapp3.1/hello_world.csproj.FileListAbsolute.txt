@@ -1,0 +1,12 @@
+C:\Users\A\Desktop\backend\lab_2\hello_world\hello_world\bin\Release\netcoreapp3.1\hello_world.exe
+C:\Users\A\Desktop\backend\lab_2\hello_world\hello_world\bin\Release\netcoreapp3.1\hello_world.deps.json
+C:\Users\A\Desktop\backend\lab_2\hello_world\hello_world\bin\Release\netcoreapp3.1\hello_world.runtimeconfig.json
+C:\Users\A\Desktop\backend\lab_2\hello_world\hello_world\bin\Release\netcoreapp3.1\hello_world.runtimeconfig.dev.json
+C:\Users\A\Desktop\backend\lab_2\hello_world\hello_world\bin\Release\netcoreapp3.1\hello_world.dll
+C:\Users\A\Desktop\backend\lab_2\hello_world\hello_world\bin\Release\netcoreapp3.1\hello_world.pdb
+C:\Users\A\Desktop\backend\lab_2\hello_world\hello_world\obj\Release\netcoreapp3.1\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\backend\lab_2\hello_world\hello_world\obj\Release\netcoreapp3.1\hello_world.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\backend\lab_2\hello_world\hello_world\obj\Release\netcoreapp3.1\hello_world.AssemblyInfo.cs
+C:\Users\A\Desktop\backend\lab_2\hello_world\hello_world\obj\Release\netcoreapp3.1\hello_world.dll
+C:\Users\A\Desktop\backend\lab_2\hello_world\hello_world\obj\Release\netcoreapp3.1\hello_world.pdb
+C:\Users\A\Desktop\backend\lab_2\hello_world\hello_world\obj\Release\netcoreapp3.1\hello_world.genruntimeconfig.cache
