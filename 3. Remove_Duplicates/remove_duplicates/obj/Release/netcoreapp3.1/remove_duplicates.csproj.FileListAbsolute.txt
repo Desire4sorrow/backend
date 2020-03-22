@@ -1,0 +1,13 @@
+C:\Users\A\Desktop\backend\lab_2\remove_duplicates\remove_duplicates\bin\Release\netcoreapp3.1\remove_duplicates.exe
+C:\Users\A\Desktop\backend\lab_2\remove_duplicates\remove_duplicates\bin\Release\netcoreapp3.1\remove_duplicates.deps.json
+C:\Users\A\Desktop\backend\lab_2\remove_duplicates\remove_duplicates\bin\Release\netcoreapp3.1\remove_duplicates.runtimeconfig.json
+C:\Users\A\Desktop\backend\lab_2\remove_duplicates\remove_duplicates\bin\Release\netcoreapp3.1\remove_duplicates.runtimeconfig.dev.json
+C:\Users\A\Desktop\backend\lab_2\remove_duplicates\remove_duplicates\bin\Release\netcoreapp3.1\remove_duplicates.dll
+C:\Users\A\Desktop\backend\lab_2\remove_duplicates\remove_duplicates\bin\Release\netcoreapp3.1\remove_duplicates.pdb
+C:\Users\A\Desktop\backend\lab_2\remove_duplicates\remove_duplicates\obj\Release\netcoreapp3.1\remove_duplicates.csprojAssemblyReference.cache
+C:\Users\A\Desktop\backend\lab_2\remove_duplicates\remove_duplicates\obj\Release\netcoreapp3.1\remove_duplicates.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\backend\lab_2\remove_duplicates\remove_duplicates\obj\Release\netcoreapp3.1\remove_duplicates.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\backend\lab_2\remove_duplicates\remove_duplicates\obj\Release\netcoreapp3.1\remove_duplicates.AssemblyInfo.cs
+C:\Users\A\Desktop\backend\lab_2\remove_duplicates\remove_duplicates\obj\Release\netcoreapp3.1\remove_duplicates.dll
+C:\Users\A\Desktop\backend\lab_2\remove_duplicates\remove_duplicates\obj\Release\netcoreapp3.1\remove_duplicates.pdb
+C:\Users\A\Desktop\backend\lab_2\remove_duplicates\remove_duplicates\obj\Release\netcoreapp3.1\remove_duplicates.genruntimeconfig.cache
