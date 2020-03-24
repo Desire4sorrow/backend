@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A\\Desktop\\backend\\lab_2\\hello_world\\hello_world\\hello_world.csproj": {}
+    "C:\\Users\\Андрей\\Documents\\My ISO Files\\1 lab\\1. Hello_World\\hello_world\\hello_world.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A\\Desktop\\backend\\lab_2\\hello_world\\hello_world\\hello_world.csproj": {
+    "C:\\Users\\Андрей\\Documents\\My ISO Files\\1 lab\\1. Hello_World\\hello_world\\hello_world.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A\\Desktop\\backend\\lab_2\\hello_world\\hello_world\\hello_world.csproj",
+        "projectUniqueName": "C:\\Users\\Андрей\\Documents\\My ISO Files\\1 lab\\1. Hello_World\\hello_world\\hello_world.csproj",
         "projectName": "hello_world",
-        "projectPath": "C:\\Users\\A\\Desktop\\backend\\lab_2\\hello_world\\hello_world\\hello_world.csproj",
-        "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A\\Desktop\\backend\\lab_2\\hello_world\\hello_world\\obj\\",
+        "projectPath": "C:\\Users\\Андрей\\Documents\\My ISO Files\\1 lab\\1. Hello_World\\hello_world\\hello_world.csproj",
+        "packagesPath": "C:\\Users\\Aндрей\\Documents\\My ISO Files\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Андрей\\Documents\\My ISO Files\\1 lab\\1. Hello_World\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aндрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
