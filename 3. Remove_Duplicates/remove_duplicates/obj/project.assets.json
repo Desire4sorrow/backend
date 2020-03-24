@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\A\\.nuget\\packages\\": {}
+    "C:\\Users\\Aндрей\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A\\Desktop\\backend\\lab_2\\remove_duplicates\\remove_duplicates\\remove_duplicates.csproj",
+      "projectUniqueName": "C:\\Users\\Андрей\\Documents\\My ISO Files\\2 lab\\3. Remove_Duplicates\\remove_duplicates\\remove_duplicates.csproj",
       "projectName": "remove_duplicates",
-      "projectPath": "C:\\Users\\A\\Desktop\\backend\\lab_2\\remove_duplicates\\remove_duplicates\\remove_duplicates.csproj",
-      "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A\\Desktop\\backend\\lab_2\\remove_duplicates\\remove_duplicates\\obj\\",
+      "projectPath": "C:\\Users\\Андрей\\Documents\\My ISO Files\\2 lab\\3. Remove_Duplicates\\remove_duplicates\\remove_duplicates.csproj",
+      "packagesPath": "C:\\Users\\Aндрей\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Андрей\\Documents\\My ISO Files\\2 lab\\3. Remove_Duplicates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aндрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
