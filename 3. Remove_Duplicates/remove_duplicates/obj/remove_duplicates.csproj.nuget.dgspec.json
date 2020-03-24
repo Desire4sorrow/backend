@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A\\Desktop\\backend\\lab_2\\remove_duplicates\\remove_duplicates\\remove_duplicates.csproj": {}
+    "C:\\Users\\Андрей\\Documents\\My ISO Files\\2 lab\\3. Remove_Duplicates\\remove_duplicates\\remove_duplicates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A\\Desktop\\backend\\lab_2\\remove_duplicates\\remove_duplicates\\remove_duplicates.csproj": {
+    "C:\\Users\\Андрей\\Documents\\My ISO Files\\2 lab\\3. Remove_Duplicates\\remove_duplicates\\remove_duplicates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A\\Desktop\\backend\\lab_2\\remove_duplicates\\remove_duplicates\\remove_duplicates.csproj",
+        "projectUniqueName": "C:\\Users\\Андрей\\Documents\\My ISO Files\\2 lab\\3. Remove_Duplicates\\remove_duplicates\\remove_duplicates.csproj",
         "projectName": "remove_duplicates",
-        "projectPath": "C:\\Users\\A\\Desktop\\backend\\lab_2\\remove_duplicates\\remove_duplicates\\remove_duplicates.csproj",
-        "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A\\Desktop\\backend\\lab_2\\remove_duplicates\\remove_duplicates\\obj\\",
+        "projectPath": "C:\\Users\\Андрей\\Documents\\My ISO Files\\2 lab\\3. Remove_Duplicates\\remove_duplicates\\remove_duplicates.csproj",
+        "packagesPath": "C:\\Users\\Aндрей\\Documents\\My ISO Files\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Андрей\\Documents\\My ISO Files\\2 lab\\3. Remove_Duplicates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aндрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
