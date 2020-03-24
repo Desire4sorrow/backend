@@ -16,17 +16,17 @@ namespace remove_duplicates
             HashSet<char> setOfCharacters = new HashSet<char>();
             string inputLine = args[0];
             char ch;
-            for(int i = 0; i < inputLine.Length; i++)
+            for(int a = 0; a < inputLine.Length; a++)
             {
-                ch = inputLine[i];
+                ch = inputLine[a];
                 if (!setOfCharacters.Contains(ch))
                 {
                     setOfCharacters.Add(ch);
                 }
                 else
                 {
-                    inputLine = inputLine.Remove(i, 1);
-                    i--;
+                    inputLine = inputLine.Remove(a, 1);
+                    a--;
                 }
             }
 
