@@ -13,7 +13,7 @@ namespace RemoveDuplicates
 
                 Console.WriteLine("Usage: remove_duplicates.exe <input string>");
 				
-                Environment.Exit(1);
+                return 1;
             }
 	    else
             {
