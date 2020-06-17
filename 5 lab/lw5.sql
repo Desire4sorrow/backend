@@ -37,7 +37,7 @@ INSERT INTO dvd (title, production_year) VALUES ('Кайло', date('2011-01-01'
 INSERT INTO dvd (title, production_year) VALUES ('Уникум', date('2011-06-05'));
 
 INSERT INTO customer (first_name, last_name, passport_code, registration_date) VALUES ('Егор', 'Егоров', 8810123456, date('2014-08-13'));
-INSERT INTO customer (first_name, last_name, passport_code, registration_date) VALUES ('Виктор?', 'Викторов', 8806654321, date('2010-11-03'));
+INSERT INTO customer (first_name, last_name, passport_code, registration_date) VALUES ('Виктор', 'Викторов', 8806654321, date('2010-11-03'));
 INSERT INTO customer (first_name, last_name, passport_code, registration_date) VALUES ('Юрий', 'Юрьев', 8811456735, date('2011-10-05')); 
 INSERT INTO customer (first_name, last_name, passport_code, registration_date) VALUES ('Николай', 'Николаев', 8804178254, date('2009-05-01'));  
 INSERT INTO customer (first_name, last_name, passport_code, registration_date) VALUES ('Федор', 'Федоров', 8854671230, date('2010-01-30'));    
@@ -63,15 +63,17 @@ ORDER BY title;
 --5. SQL запрос выбора DVD, которые находятся у клиентов.
 
 SELECT offer.return_date, dvd.title
-FROM offer JOIN dvd ON offer.dvd_id = dvd.dvd_id
+FROM offer 
+JOIN dvd 
+ON offer.dvd_id = dvd.dvd_id
 WHERE offer.return_date IS NULL;
 
 --6. SQL запрос выбора клиентов, которые в текущем году брали диски.
 -- Указание какие конкретно диски были взяты
 
 SELECT customer.customer_id, customer.first_name, customer.last_name
-FROM customer
-LEFT JOIN offer
+FROM customer 
+LEFT JOIN offer 
 ON offer.customer_id = customer.customer_id
 LEFT JOIN dvd
 ON offer.dvd_id = dvd.dvd_id
