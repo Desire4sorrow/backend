@@ -6,22 +6,12 @@ namespace CheckIdentifier
     {
         public static bool IsEngSym(char symbol)
         {
-            if ((symbol >= 'A' && symbol <= 'Z') || (symbol >= 'a' && symbol <= 'z'))
-            {
-                return true;
-            }
-
-            return false;
+            return ((symbol >= 'A' && symbol <= 'Z') || (symbol >= 'a' && symbol <= 'z'));
         }
 
         public static bool IsDigit(char symbol)
         {
-            if ('0' <= symbol && symbol <= '9')
-            {
-                return true;
-            }
-
-            return false;   
+            return ('0' <= symbol && symbol <= '9');
         }
 
         public static bool CheckIdent(string identifier)
